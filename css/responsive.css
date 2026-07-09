@@ -1,0 +1,16 @@
+@media (max-width: 760px){
+    header {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    nav ul{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero h1{
+        font-size: 32px;
+    }
+}
+
